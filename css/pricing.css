@@ -1,3 +1,8 @@
 .pricing .container { padding: 100px 10px; }
 .pricing .pricing-content { padding: 0; margin: 0; }
-.pricing .pricing-content p { font: 12px/15px 'Sintony', Helvetica, Arial, sans-serif; padding: 10px 20px 0 0; margin: 0 0 15px 0; min-height: 60px; border-top: 1px dotted #ccc;  }
+.pricing .pricing-content h4 { padding: 40px 10px 0 10px; }
+.pricing .pricing-content p { font: 11px/15px 'Sintony', Helvetica, Arial, sans-serif; padding: 10px 10px 15px 10px; margin: 0; min-height: 60px; border-top: 1px solid #fff; }
+.lt-aqua { background-color: #f2fafa; }
+.aqua { background-color: #e6f5f5; }
+.med-aqua { background-color: #dcf1f1; }
+.dk-aqua { background-color: #cdebeb; }
