@@ -1,14 +1,20 @@
 /* Structure */
 .pricing .container { padding: 100px 10px; }
+.pricing .pricing-wrapper { background: url(../assets/images/diag-stripe-tile.gif) repeat; }
 .pricing .pricing-content { padding: 0; margin: 0; }
-.pricing .pricing-content h4 { padding: 40px 10px 0 10px; }
+.pricing .pricing-content h4 { padding: 40px 10px 10px 10px; margin: 0; font: 300 20px/30px 'Sintony', Helvetica, Arial, sans-serif; background-color: #fff; }
 .pricing .pricing-content p { font: 11px/15px 'Sintony', Helvetica, Arial, sans-serif; margin: 6px 0; color: #799; }
-.pricing .pricing-content div em { font: 300 30px/30px 'Sintony', Helvetica, Arial, sans-serif; font-style: normal; color: #455; float: left; display: block; margin: 0 2px 0 0; }
-.pricing .pricing-content .unit { font: 10px/13px 'Sintony', Helvetica, Arial, sans-serif; float: none; color: #455; display: block; min-height: 30px; }
+.pricing .pricing-content ul, .pricing .pricing-content ul li { font: 11px/15px 'Sintony', Helvetica, Arial, sans-serif; color: #799; list-style: none; padding: 0; margin: 0; }
+.pricing .pricing-content ul { margin: 6px 0; }
+.pricing .pricing-content ul ul { margin-bottom: 12px; }
+.pricing .pricing-content ul ul li { margin: 0 10px 6px 16px; list-style-type: circle; list-style-position: outside; }
+.pricing .pricing-content div em { font: 300 20px/24px 'Sintony', Helvetica, Arial, sans-serif; font-style: normal; color: #455; float: left; display: block; margin: 0 2px 0 0; }
+.pricing .pricing-content .unit { font: 10px/12px 'Sintony', Helvetica, Arial, sans-serif; float: none; color: #455; display: block; min-height: 24px; }
 
 /* Stylistic */
-.lt-aqua { background-color: #f2fafa; border-top: 1px solid #fff; padding: 10px 10px 15px 10px; min-height: 60px; }
-.aqua { background-color: #e6f5f5; border-top: 1px solid #fff; padding: 10px 10px 15px 10px; min-height: 60px; }
-.med-aqua { background-color: #dcf1f1; border-top: 1px solid #fff; padding: 10px 10px 15px 10px; min-height: 60px; }
-.dk-aqua { background-color: #cdebeb; border-top: 1px solid #fff; padding: 10px 10px 15px 10px; min-height: 60px; }
+.lt-aqua { background-color: #f2fafa; border-top: 1px solid #fff; padding: 10px 10px 15px 10px; min-height: 80px; }
+.aqua { background-color: #e6f5f5; border-top: 1px solid #fff; padding: 10px 10px 15px 10px; min-height: 80px; }
+.med-aqua { background-color: #dcf1f1; border-top: 1px solid #fff; padding: 10px 10px 15px 10px; min-height: 80px; }
+.dk-aqua { background-color: #cdebeb; border-top: 1px solid #fff; padding: 10px 10px 15px 10px; min-height: 80px; }
+.plain { background-color: #eef6ea; border-top: 1px solid #455; padding: 15px 10px 15px 10px; min-height: 80px; }
 .taller { height: 100px; }
