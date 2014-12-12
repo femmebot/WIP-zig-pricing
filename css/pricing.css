@@ -3,8 +3,8 @@
 .pricing .pricing-content { padding: 0; margin: 0; }
 .pricing .pricing-content h4 { padding: 40px 10px 0 10px; }
 .pricing .pricing-content p { font: 11px/15px 'Sintony', Helvetica, Arial, sans-serif; margin: 6px 0; color: #799; }
-.pricing .pricing-content div em { font: 30px/30px 'Sintony', Helvetica, Arial, sans-serif; font-style: normal; color: #455; float: left; display: block; margin: 0 2px 0 0; }
-.pricing .pricing-content .unit { font: 11px/15px 'Sintony', Helvetica, Arial, sans-serif; float: none; color: #455; display: block; min-height: 30px; }
+.pricing .pricing-content div em { font: 300 30px/30px 'Sintony', Helvetica, Arial, sans-serif; font-style: normal; color: #455; float: left; display: block; margin: 0 2px 0 0; }
+.pricing .pricing-content .unit { font: 10px/13px 'Sintony', Helvetica, Arial, sans-serif; float: none; color: #455; display: block; min-height: 30px; }
 
 /* Stylistic */
 .lt-aqua { background-color: #f2fafa; border-top: 1px solid #fff; padding: 10px 10px 15px 10px; min-height: 60px; }
